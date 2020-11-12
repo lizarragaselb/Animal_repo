@@ -1,0 +1,33 @@
+.nav_buttons {
+    display: inline-block;
+    padding: 15px;
+    background-color: rgb(155, 216, 105);
+}
+#nav {
+    background-color: grey;
+   
+}
+
+#left{
+    width: 29%;
+    float: left;
+    background-color: lightgray;
+    height: 1000px;
+}
+
+#right{
+    width: 71%;
+    float: left;
+    background-color: rgb(240, 238, 238);
+    height: 1000px;
+
+}
+#top {
+    background-color: rgb(216, 219, 216);
+    height: 250px;
+}
+
+#bottom {
+    background-color: rgb(161, 161, 160);
+    height: 750px;
+}
